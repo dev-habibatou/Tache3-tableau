@@ -1,0 +1,29 @@
+table{
+    width:50%;
+    background-color: #eee;
+    border: 1px solid #0f0e0e;
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+    margin-left: 17%;
+
+}
+h3{
+    color: red;
+}
+td,th,thead{
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    
+}
+tr{
+    border: 1px solid gray;
+}
+div{
+    margin-left:38%;
+}
+
+
